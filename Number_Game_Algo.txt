@@ -1,0 +1,9 @@
+1] START
+2] Display the Rules & Instration to play the game.
+3] Taking the input for the user to guess the number.
+4] Check if number is equal to "Computers_Number_Seletion"
+5] if "user_guess" == "Computers_Number_Seletion": Display Congratulations You Guessed it correctly.
+6] if "user_guess" >= "Computers_Number_Seletion": Display Hint : Guess Lower Numeber
+7] if "user_guess" <= "Computers_Number_Seletion": Display Hint : Guess Higher Numeber
+8] user have 10 attempt to guess after that Display: You Lose, Try Again.
+9] STOP
